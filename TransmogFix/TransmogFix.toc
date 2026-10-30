@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: TransmogFix
+## Notes: Fixes set bonuses, slot icons and tooltips of transmogrified gear.
+## Notes-deDE: Korrigiert Set-Boni, Slot-Icons und Tooltips bei transmogrifizierter Ausrüstung.
+## Author: Steffen Köhler
+## Version: 1.0.0
+## SavedVariables: TransmogFixDB
+
+TransmogFix.lua
