@@ -27,6 +27,12 @@ The character window shows the real helm icon (top left) while the model keeps t
 
 ![Character window with the real helm icon](docs/images/character-window.png)
 
+## Installation
+
+Download `TransmogFix-vX.zip` from the
+[latest release](https://github.com/SteffenKoehler/TransmogFix/releases/latest) and extract
+it into `Interface/AddOns`. As a new addon it is only loaded after a full client restart.
+
 ## Options
 
 Interface > AddOns > TransmogFix, or `/transmogfix`. Both parts can be switched off.
